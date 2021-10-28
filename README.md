@@ -1,2 +1,2 @@
-# hello-presence
-This is my goal
+# helloo-presence
+Final project of the 5th semester of the university.
